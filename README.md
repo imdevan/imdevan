@@ -7,7 +7,7 @@
 
 
 I'm:
-- I'm a senior **full-stack engineer** with a passion for **building** thoughtful, user-centered **products** — especially the kind that go from 0 to 1. I've spent the last 8+ years shipping production-grade software across startups, agencies, and my own side projects. Lately, I've been focused on tools that help people communicate better, learn faster, and build more efficiently.
+- a senior **full-stack engineer** with a passion for **building** thoughtful, user-centered **products** — especially the kind that go from 0 to 1. I've spent the last 8+ years shipping production-grade software across startups, agencies, and my own side projects. Lately, I've been focused on tools that help people communicate better, learn faster, and build more efficiently.
 - an avid dancer
 - a passionate life-long learner in all things
 
